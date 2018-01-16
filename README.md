@@ -21,8 +21,9 @@ CC BY-NC-ND
 
 ## Known Issues
 
-Because KSP does not support multiple stars, some mods or mod features will not work correctly with GEP. Mods known to have multiple star issues include:
+Because KSP does not support multiple stars, some mods or mod features will not work correctly with GEP.  Known issues include:
 
-  * EVE - eclipse shadows rendered incorrectly; EVE eclipses are excluded from GEP, though other EVE features work.
-  * PlanetShine - lighting effects rendered incorrectly; GEP provides no support for PlanetShine.
-  * SCANsat - day-night terminator displayed incorrectly, other SCANsat features work.
+  * PlanetShine effects rendered incorrectly; excluded from GEP
+  * EVE eclipses rendered incorrectly; excluded from GEP
+  * SCANsat day-night terminator drawn incorrectly
+
