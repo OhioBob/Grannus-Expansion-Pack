@@ -4,11 +4,19 @@
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
+# Changelog:
+## v0.9.0.0
+* Changed file structure to enanble on demand loading.
+* Added Final Frontier ribbons.
+* Changed semimajor axes and periods of Nodens and Belisama.
+* Revised CelestialBodies.pdf.
+* Deleted Pre_GPP160.cfg.
+
 ## TO INSTALL:
 
 1.  Download and install Galileo's Planet Pack (https://github.com/Galileo88/Galileos-Planet-Pack/releases).  Be sure to carefully follow all the GPP installation instructions.  Any dependencies or optional mods required or used by GEP will be installed when you install GPP.  It is recommended that you confirm the correct operation of GPP before installing GEP. 
 
-2. Download Grannus Expansion Pack 0.8
+2. Download Grannus Expansion Pack 0.9
 
 3. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -18,6 +26,7 @@ CC BY-NC-ND
   * Scatterer - min-version: 0.0320b
   * Distant Object Enhancement
   * ResearchBodies
+  * Final Frontier
 
 ## Known Issues
 
