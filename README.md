@@ -1,7 +1,7 @@
 ﻿
 # Grannus-Expansion-Pack
 
-This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
+This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 # Changelog:
@@ -15,11 +15,13 @@ CC BY-NC-ND
 
 ## TO INSTALL:
 
-1.  Download and install Galileo's Planet Pack, version 1.6.1.0 or later (https://github.com/Galileo88/Galileos-Planet-Pack/releases).  Be sure to carefully follow all the GPP installation instructions.  Any dependencies or optional mods required or used by GEP will be installed when you install GPP.  It is recommended that you confirm the correct operation of GPP before installing GEP. 
+1.  Download and install Galileo's Planet Pack, version 1.6.1.0 or later (https://github.com/Galileo88/Galileos-Planet-Pack/releases).  Be sure to carefully follow all the GPP installation instructions.  Any dependencies or optional mods required or used by GEP will be installed when you install GPP.  It is recommended that you confirm the correct operation of GPP before installing GEP.
 
-2. Download Grannus Expansion Pack 0.9.0.0
+2. If you have an existing GameData\GEP folder from a previous installation, delete it. 
 
-3. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
+3. Download Grannus Expansion Pack 0.9.0.0
+
+4. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
 ## Recommended mods with support for or by GEP
 
