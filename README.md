@@ -6,7 +6,7 @@ CC BY-NC-ND
 
 # Changelog:
 ## v0.9.0.0
-* Updated for Kopernicus 1.3.1-4 and GPP 1.6.1.0.
+* Updated for Kopernicus 1.3.1-5 and GPP 1.6.1.0.
 * Changed file structure to enable on demand loading.
 * Added Final Frontier ribbons.
 * Changed semimajor axes and periods of Nodens and Belisama.
