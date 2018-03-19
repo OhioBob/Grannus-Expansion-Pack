@@ -15,15 +15,7 @@ CC BY-NC-ND
 * Updated EVE clouds noise speed.
 * Revised stock atmosphere visual settings.
 * Fixed typo in localization file name.
-
-# Changelog:
-## v0.9.0.0
-* Updated for Kopernicus 1.3.1-5 and GPP 1.6.1.0.
-* Changed file structure to enable on demand loading.
-* Added Final Frontier ribbons.
-* Changed semimajor axes and periods of Nodens and Belisama.
-* Revised CelestialBodies.pdf.
-* Deleted Pre_GPP160.cfg.
+* Includes celestial body cache files to speed up initial load time.
 
 ## TO INSTALL:
 
