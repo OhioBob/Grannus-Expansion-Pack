@@ -10,10 +10,11 @@ CC BY-NC-ND
 * Belisama: Removed some bumpiness in heightmap; added PQS height noise; new normal map.
 * RAB-58E: Changed height map to 4k; added PQS height noise; new normal map.
 * Cernunnos: Reworked all textures, including height, color and normal maps; added PQS height noise; added a biome.
-* Sirona: Fixed problems with ocean and ring texture.
+* Fixed problem with Noden's ocean.
+* Fixed problem with Sirona's ring texture.
 * Implememts EVE atmospheres when Scatterer is not installed.
-* Updated EVE clouds noise speed.
-* Revised stock atmosphere visual settings.
+* Updates to EVE clouds.
+* Revised stock atmosphere colors.
 * Fixed typo in localization file name.
 * Includes celestial body cache files to speed up initial load time.
 
