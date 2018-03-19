@@ -9,7 +9,7 @@ CC BY-NC-ND
 * Updated for GPP 1.6.2.0.
 * Belisama: Removed some bumpiness in heightmap; added PQS height noise; new normal map.
 * RAB-58E: Changed height map to 4k; added PQS height noise; new normal map.
-* Cernunnos: Reworked all textures, including height, color and normal maps; added PQS height noise; added a biome.
+* Cernunnos: Reworked height and color maps; added PQS height noise; new normal map; added a biome.
 * Fixed problem with Noden's ocean.
 * Fixed problem with Sirona's ring texture.
 * Implememts EVE atmospheres when Scatterer is not installed.
@@ -17,6 +17,7 @@ CC BY-NC-ND
 * Revised stock atmosphere colors.
 * Fixed typo in localization file name.
 * Includes celestial body cache files to speed up initial load time.
+* Copied assets from GPP to GEP.
 
 ## TO INSTALL:
 
