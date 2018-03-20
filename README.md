@@ -6,22 +6,21 @@ CC BY-NC-ND
 
 # Changelog:
 ## v0.9.1.0
-* Updated for GPP 1.6.2.0.
 * Belisama: Removed some bumpiness in heightmap; added PQS height noise; new normal map.
 * RAB-58E: Changed height map to 4k; added PQS height noise; new normal map.
 * Cernunnos: Reworked height and color maps; added PQS height noise; new normal map; added a biome.
 * Fixed problem with Noden's ocean.
 * Fixed problem with Sirona's ring texture.
+* Fixed typo in localization file name.
 * Implememts EVE atmospheres when Scatterer is not installed.
 * Updates to EVE clouds.
 * Revised stock atmosphere colors.
-* Fixed typo in localization file name.
+* Copied assets from GPP to GEP to make GEP less reliant on GPP.
 * Includes celestial body cache files to speed up initial load time.
-* Copied assets from GPP to GEP.
 
 ## TO INSTALL:
 
-1.  Download and install Galileo's Planet Pack, version 1.6.2.0 or later (https://github.com/Galileo88/Galileos-Planet-Pack/releases).  Be sure to carefully follow all the GPP installation instructions.  Any dependencies or optional mods required or used by GEP will be installed when you install GPP.  It is recommended that you confirm the correct operation of GPP before installing GEP.
+1.  Download and install Galileo's Planet Pack, version 1.6.1.0 or later (https://github.com/Galileo88/Galileos-Planet-Pack/releases).  Be sure to carefully follow all the GPP installation instructions.  Any dependencies or optional mods required or used by GEP will be installed when you install GPP.  It is recommended that you confirm the correct operation of GPP before installing GEP.
 
 2. If you have an existing GameData\GEP folder from a previous installation, delete it. 
 
