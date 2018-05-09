@@ -1,46 +1,84 @@
-﻿
-# Grannus-Expansion-Pack
+﻿# Grannus-Expansion-Pack
 
 This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
-# Changelog:
-## v0.9.1.0
-* Belisama: Removed some bumpiness in heightmap; added PQS height noise; new normal map.
-* RAB-58E: Changed height map to 4k; added PQS height noise; new normal map.
-* Cernunnos: Reworked height and color maps; added PQS height noise; new normal map; added a biome.
-* Fixed problem with Noden's ocean.
-* Fixed problem with Sirona's ring texture.
-* Fixed typo in localization file name.
-* Implememts EVE atmospheres when Scatterer is not installed.
-* Updates to EVE clouds.
-* Revised stock atmosphere colors.
-* Copied assets from GPP to GEP to make GEP less reliant on GPP.
-* Includes celestial body cache files to speed up initial load time.
+## Changelog
+## v1.0.0.0
 
-## TO INSTALL:
+* Made GEP a standalone mod, independent of GPP.
+* Added GEP_Primary, including all related configs and revisions.
+* Added GEP_CommNet, including all related configs and revisions.
+* Added textures for Communotron 7-1000 antenna.
+* Added delta-v tables.
+* Enabled PlanetShine and EVE eclipses for GEP_Primary.
+* Revised Nodens' PQSmods and textures, added islands for PQSCity.
+* Revised Belisama's meanAnomalyAtEpoch to improve solar eclipses.
+* Revised some in-game descriptions.
 
-1.  Download and install Galileo's Planet Pack, version 1.6.1.0 or later (https://github.com/Galileo88/Galileos-Planet-Pack/releases).  Be sure to carefully follow all the GPP installation instructions.  Any dependencies or optional mods required or used by GEP will be installed when you install GPP.  It is recommended that you confirm the correct operation of GPP before installing GEP.
+## Installation Instructions (with Stock, no GPP)
 
-2. If you have an existing GameData\GEP folder from a previous installation, delete it. 
+1. Begin with an installation of KSP version 1.4.3, running in 64-bit.
 
-3. Download Grannus Expansion Pack 0.9.1.0
+2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run once with no mods installed before proceeding.
 
-4. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
+3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, i.e. 1.4.3-x
+
+4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
+   * Kopernicus
+   * ModularFlightIntergrator
+   * ModuleManager.3.0.7.dll
+
+5. Download Grannus Expansion Pack 1.0.0.0
+
+6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
+
+## Installation Instructions (with GPP):
+
+1.  Download and install [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), version 1.6.3.0 or later. Be sure to carefully follow all the GPP installation instructions. Any dependencies or optional mods required or used by GEP will be installed when you install GPP. It is recommended that you confirm the correct operation of GPP before installing GEP.
+
+2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
+
+3. Download Grannus Expansion Pack 1.0.0.0
+
+4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
+
+## GEP_Primary
+
+1. GEP_Primary is an optional add-on that turns GEP into a primary star system, with Grannus as the central star and Nodens the home world.
+
+2. To use GEP_Primary, first install GEP per the instructions above (with Stock, no GPP).
+
+3. Copy [GEP Download]\Optional Mods\GEP_Primary\GameData\GEP_Primary to [KSP]\GameData\ .
+
+4. If GEP + GEP_Primary is installed in combination with GPP + GPP_Secondary, then GPP is added as a secondary star system orbiting Grannus.
+
+## GEP_CommNet
+
+1. GEP_CommNet is an optional add-on that increases communications range by adding a level 4 Tracking Station and a powerful additional antenna. With both upgrades, a line of communication can reach between Grannus and the Sun/Ciro.
+
+2. To install, copy [GEP Download]\Optional Mods\GEP_CommNet\GameData\GEP\GEP_CommNet to [KSP]\GameData\GEP\ .
+
+## Other Optional Mods
+
+1. Install the optional mods of your choice by copying or merging [GEP Download]\Optional Mods\GEP_[mod name]\GameData\[mod name] to [KSP]\GameData\ .
+
+2. [Final Frontier](https://spacedock.info/mod/580/Final%20Frontier/download/1.3.6-3189) must be downloaded and installed separately.
 
 ## Recommended mods with support for or by GEP
 
-  * Environmental Visual Enhancements - min-version: 1.2.2-1
-  * Scatterer - min-version: 0.0320b
+  * Environmental Visual Enhancements
+  * Scatterer
   * Distant Object Enhancement
+  * Flare Replacer
   * ResearchBodies
   * Final Frontier
+  * PlanetShine (GEP_Primary only)
+  * Kronometer (GEP_Primary only)
 
 ## Known Issues
 
-Because KSP does not support multiple stars, some mods or mod features will not work correctly with GEP.  Known issues include:
-
-  * PlanetShine effects rendered incorrectly; excluded from GEP
-  * EVE eclipses rendered incorrectly; excluded from GEP
-  * SCANsat day-night terminator drawn incorrectly
-
+  * PlanetShine works with GEP_Primary only, otherwise disabled.
+  * EVE eclipses work with GEP_Primary only, otherwise disabled.
+  * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
+  * JX2 Antenna conflicts with GEP_CommNet when OPM is also installed; JX2 is not recommended.
