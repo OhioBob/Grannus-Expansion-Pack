@@ -83,4 +83,3 @@ CC BY-NC-ND
   * PlanetShine works with GEP_Primary only, otherwise disabled.
   * EVE eclipses work with GEP_Primary only, otherwise disabled.
   * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
-  * JX2 Antenna conflicts with GEP_CommNet when OPM is also installed; JX2 is not recommended.
