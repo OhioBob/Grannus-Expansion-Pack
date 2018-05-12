@@ -4,17 +4,11 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.0.0
+## v1.0.0.1
 
-* Made GEP a standalone mod, independent of GPP.
-* Added GEP_Primary, including all related configs and revisions.
-* Added GEP_CommNet, including all related configs and revisions.
-* Added textures for Communotron 7-1000 antenna.
-* Added delta-v tables.
-* Enabled PlanetShine and EVE eclipses for GEP_Primary.
-* Revised Nodens' PQSmods and textures, added islands for PQSCity.
-* Revised Belisama's meanAnomalyAtEpoch to improve solar eclipses.
-* Revised some in-game descriptions.
+* Fixed a bug in Nodens' scatterer configs.
+* Revised delta-v tables (interplanetary transfer orbits).
+* Alters orbits of OPM planets when installed with GEP_Primary.
 
 ## Installation Instructions (with Stock, no GPP)
 
@@ -29,7 +23,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager.3.0.7.dll
 
-5. Download Grannus Expansion Pack v1.0.0.0.
+5. Download Grannus Expansion Pack v1.0.0.1.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -39,7 +33,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.0.0.0.
+3. Download Grannus Expansion Pack v1.0.0.1.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -83,3 +77,4 @@ CC BY-NC-ND
   * PlanetShine works with GEP_Primary only, otherwise disabled.
   * EVE eclipses work with GEP_Primary only, otherwise disabled.
   * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
+  * Scatterer effects do not show in main menu or Tracking Station; this is normal.
