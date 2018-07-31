@@ -4,36 +4,45 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.0.1
+## v1.0.1.0
 
-* Fixed a bug in Nodens' scatterer configs.
-* Revised delta-v tables (interplanetary transfer orbits).
-* Alters orbits of OPM planets when installed with GEP_Primary.
+* Increased RAB-58E's surface gravity.
+* Revised Cernunnos' color, height and normal maps.
+* Added normal map for Sirona.
+* Adjusted Nodens' PQS to make primary and secondary versions match.
+* Revised Grannus' brightness curve.
+* Fixed luminosities of Grannus and Ciro for GEP_Primary.
+* Fixed typo in scatterer planet list.
+* Rewrote several scatterer configs to improve compatibility with Module Manager.
+* Reinstalled desert launch site/airfield; revised terrain to accommodate.
+* Tweaked KSC rotation for better east-west alignment.
+* Enabled colliders for boulders and trees.
+* Added MechJeb2 config.
 
 ## Installation Instructions (with Stock, no GPP)
 
-1. Begin with an installation of KSP version 1.4.3, running in 64-bit.
+1. Begin with an installation of KSP version 1.4.5, running in 64-bit.
 
 2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run once with no mods installed before proceeding.
 
-3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, i.e. 1.4.3-x.
+3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, i.e. 1.4.5-x.
 
 4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
    * Kopernicus
    * ModularFlightIntergrator
    * ModuleManager.3.0.7.dll
 
-5. Download Grannus Expansion Pack v1.0.0.1.
+5. Download Grannus Expansion Pack v1.0.1.0.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
 ## Installation Instructions (with GPP):
 
-1.  Download and install [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), version 1.6.3.0 or later. Be sure to carefully follow all the GPP installation instructions. Any dependencies or optional mods required or used by GEP will be installed when you install GPP. It is recommended that you confirm the correct operation of GPP before installing GEP.
+1.  Download and install [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), version 1.6.3.1 or later. Be sure to carefully follow all the GPP installation instructions. Any dependencies or optional mods required or used by GEP will be installed when you install GPP. It is recommended that you confirm the correct operation of GPP before installing GEP.
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.0.0.1.
+3. Download Grannus Expansion Pack v1.0.1.0.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
