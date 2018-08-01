@@ -12,6 +12,7 @@ CC BY-NC-ND
 * Adjusted Nodens' PQS to make primary and secondary versions match.
 * Revised Grannus' brightness curve.
 * Fixed luminosities of Grannus and Ciro for GEP_Primary.
+* Deactivate stock sunflare when scatterer installed.
 * Fixed typo in scatterer planet list.
 * Rewrote several scatterer configs to improve compatibility with Module Manager.
 * Reinstalled desert launch site/airfield; revised terrain to accommodate.
