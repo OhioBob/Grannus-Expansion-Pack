@@ -12,10 +12,10 @@ CC BY-NC-ND
 * Adjusted Nodens' PQS to make primary and secondary versions match.
 * Revised Grannus' brightness curve.
 * Fixed luminosities of Grannus and Ciro for GEP_Primary.
-* Deactivate stock sunflare when scatterer installed.
+* Deactivated stock sunflare when scatterer is installed.
 * Fixed typo in scatterer planet list.
 * Rewrote several scatterer configs to improve compatibility with Module Manager.
-* Reinstalled desert launch site/airfield; revised terrain to accommodate.
+* Reinstalled desert launch site & airfield; revised terrain to accommodate.
 * Tweaked KSC rotation for better east-west alignment.
 * Enabled colliders for boulders and trees.
 * Added MechJeb2 config.
@@ -24,7 +24,7 @@ CC BY-NC-ND
 
 1. Begin with an installation of KSP version 1.4.5, running in 64-bit.
 
-2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run once with no mods installed before proceeding.
+2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
 
 3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, i.e. 1.4.5-x.
 
