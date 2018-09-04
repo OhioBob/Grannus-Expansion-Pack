@@ -7,8 +7,8 @@ CC BY-NC-ND
 ## v1.0.1.1
 
 * Fixed error in Airmed's biome map.
-* Fixed typos in English localization file.
 * Fixed typo in Island Airfield MapDecal.
+* Fixed typos in English localization file.
 * Changed Rosmerta's space threshold to 25,000 meters.
 * Revised installation instructions for GEP_CommNet.
 
