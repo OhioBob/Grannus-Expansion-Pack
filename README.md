@@ -4,21 +4,13 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.1.0
+## v1.0.1.1
 
-* Increased RAB-58E's surface gravity.
-* Revised Cernunnos' color, height and normal maps.
-* Added normal map for Sirona.
-* Adjusted Nodens' PQS to make primary and secondary versions match.
-* Revised Grannus' brightness curve.
-* Fixed luminosities of Grannus and Ciro for GEP_Primary.
-* Deactivated stock sunflare when scatterer is installed.
-* Fixed typo in scatterer planet list.
-* Rewrote several scatterer configs to improve compatibility with Module Manager.
-* Reinstalled desert launch site & airfield; revised terrain to accommodate.
-* Tweaked KSC rotation for better east-west alignment.
-* Enabled colliders for boulders and trees.
-* Added MechJeb2 config.
+* Fixed error in Airmed's biome map.
+* Fixed typos in English localization file.
+* Fixed typo in Island Airfield MapDecal.
+* Changed Rosmerta's space threshold to 25,000 meters.
+* Revised installation instructions for GEP_CommNet.
 
 ## Installation Instructions (with Stock, no GPP)
 
@@ -33,7 +25,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager.3.0.7.dll
 
-5. Download Grannus Expansion Pack v1.0.1.0.
+5. Download Grannus Expansion Pack v1.0.1.1.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -43,7 +35,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.0.1.0.
+3. Download Grannus Expansion Pack v1.0.1.1.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
