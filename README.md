@@ -4,24 +4,26 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.1.2
+## v1.0.1.3
 
-* Revised staticPressureASL for GEP_Primary; engine Isp now correctly computed.
+* Fixed incorrect naming of Nodens in resource configs for GEP_Primary.
+* Increased Sirona's atmosphere to 550 km, added bottom layer of rapidly increasing pressure and temperature.
+* Replaced HazardousOcean with HazardousBody.
 
 ## Installation Instructions (with Stock, no GPP)
 
-1. Begin with an installation of KSP version 1.4.5, running in 64-bit.
+1. Begin with an installation of KSP version 1.5.1, running in 64-bit.
 
 2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
 
-3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, i.e. 1.4.5-x.
+3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, i.e. 1.5.1-x.
 
 4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
    * Kopernicus
    * ModularFlightIntergrator
-   * ModuleManager.3.0.7.dll
+   * ModuleManager.3.1.1.dll
 
-5. Download Grannus Expansion Pack v1.0.1.2.
+5. Download Grannus Expansion Pack v1.0.1.3.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -31,7 +33,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.0.1.2.
+3. Download Grannus Expansion Pack v1.0.1.3.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
