@@ -4,36 +4,38 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.1.3
+## v1.0.1.4
 
-* Fixed incorrect naming of Nodens in resource configs for GEP_Primary.
-* Increased Sirona's atmosphere to 550 km, added bottom layer of rapidly increasing pressure and temperature.
-* Replaced HazardousOcean with HazardousBody.
+* Updated scatterer configs for v0.0540.
+* Updated HazardousBody for Kopernicus 1.6.
+* Deleted Epona clouds.
+* Revised rim and fog color ramps.
+* Added support for Kerbal Health.
 
 ## Installation Instructions (with Stock, no GPP)
 
-1. Begin with an installation of KSP version 1.5.1, running in 64-bit.
+1. Begin with an installation of KSP version 1.7 or later, running in 64-bit.
 
 2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
 
-3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, i.e. 1.5.1-x.
+3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, e.g. 1.7.0-x.
 
 4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
    * Kopernicus
    * ModularFlightIntergrator
-   * ModuleManager.3.1.1.dll
+   * ModuleManager
 
-5. Download Grannus Expansion Pack v1.0.1.3.
+5. Download Grannus Expansion Pack v1.0.1.4.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
 ## Installation Instructions (with GPP):
 
-1.  Download and install [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), version 1.6.3.1 or later. Be sure to carefully follow all the GPP installation instructions. Any dependencies or optional mods required or used by GEP will be installed when you install GPP. It is recommended that you confirm the correct operation of GPP before installing GEP.
+1.  Download and install [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), lastest version. Be sure to carefully follow all the GPP installation instructions. Any dependencies or optional mods required or used by GEP will be installed when you install GPP. It is recommended that you confirm the correct operation of GPP before installing GEP.
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.0.1.3.
+3. Download Grannus Expansion Pack v1.0.1.4.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -71,6 +73,7 @@ CC BY-NC-ND
   * Flare Replacer
   * ResearchBodies
   * Final Frontier
+  * Kerbal Health
   * PlanetShine (GEP_Primary only)
   * Kronometer (GEP_Primary only)
 
@@ -79,4 +82,3 @@ CC BY-NC-ND
   * PlanetShine works with GEP_Primary only, otherwise disabled.
   * EVE eclipses work with GEP_Primary only, otherwise disabled.
   * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
-  * Scatterer effects do not show in main menu or Tracking Station; this is normal.
