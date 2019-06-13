@@ -90,3 +90,4 @@ CC BY-NC-ND
   * PlanetShine works with GEP_Primary only, otherwise disabled.
   * EVE eclipses work with GEP_Primary only, otherwise disabled.
   * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
+  * EVE clouds do not match the diameter of Nodens in main menu.
