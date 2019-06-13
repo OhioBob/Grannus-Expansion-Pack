@@ -1,4 +1,5 @@
-﻿# Grannus-Expansion-Pack
+﻿![GEP](https://i.imgur.com/POwqAiG.jpg)
+# Grannus-Expansion-Pack
 
 This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
