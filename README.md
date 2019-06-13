@@ -4,28 +4,27 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.1.4
+## v1.0.1.5
 
-* Updated scatterer configs for v0.0540.
-* Updated HazardousBody for Kopernicus 1.6.
-* Deleted Epona clouds.
-* Revised rim and fog color ramps.
-* Added support for Kerbal Health.
+* Implemented changes required for Koperncicus 1.7.1.
+* Revised scaled version material settings and texture tiling.
+* Revised ground scatter land classes.
+* Fixed MechJeb2 config (for GEP_Primary).
 
 ## Installation Instructions (with Stock, no GPP)
 
-1. Begin with an installation of KSP version 1.7 or later, running in 64-bit.
+1. Begin with an installation of KSP version 1.7.1 or later, running in 64-bit.
 
 2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
 
-3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, e.g. 1.7.0-x.
+3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, e.g. 1.7.1-x.
 
 4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
    * Kopernicus
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.0.1.4.
+5. Download Grannus Expansion Pack v1.0.1.5.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -35,7 +34,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.0.1.4.
+3. Download Grannus Expansion Pack v1.0.1.5.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
