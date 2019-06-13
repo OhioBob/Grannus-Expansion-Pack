@@ -10,7 +10,9 @@ CC BY-NC-ND
 * Implemented changes required for Koperncicus 1.7.1.
 * Revised scaled version material settings and texture tiling.
 * Revised ground scatter land classes.
+* Revised Kerbal Health config.
 * Fixed MechJeb2 config (for GEP_Primary).
+* Added Kerbalism config (for GEP_Primary).
 
 ## Installation Instructions (with Stock, no GPP)
 
