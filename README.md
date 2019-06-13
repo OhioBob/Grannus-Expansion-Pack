@@ -78,6 +78,7 @@ CC BY-NC-ND
   * Kerbal Health
   * PlanetShine (GEP_Primary only)
   * Kronometer (GEP_Primary only)
+  * Kerbalism (GEP_Primary only)
 
 ## Known Issues
 
