@@ -1,23 +1,20 @@
-﻿![GEP](https://i.imgur.com/POwqAiG.jpg)
-# Grannus-Expansion-Pack
+﻿# Grannus-Expansion-Pack
 
 This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.1.5
+## v1.1.0
 
-**For GEP:**
-* Implemented changes required for Koperncicus 1.7.1.
-* Revised scaled version material settings and texture tiling.
-* Revised ground scatter land classes.
-* Revised Kerbal Health config.
-* Added Principia config (moves Belisama to stable orbit).
-
-**For GEP_Primary:**
-* Added Kerbalism config.
-* Revised Kronometer settings.
-* Fixed MechJeb2 config
+* Added procedural craters to 8 celestial bodies.
+* Exported updated color and normal maps.
+* Completely reworked Cernunnos' color map.
+* Reworked Taranis' ocean, coastline and color.
+* Lowered Belisama's contrast and saturation.
+* Added subtle color to Damona.
+* Revised ScaledVersion and PQS fadeStart/End altitudes.
+* Disabled useOnDemandBiomes.
+* Updated CelestialBodies.pdf.
 
 ## Installation Instructions (with Stock, no GPP)
 
@@ -32,7 +29,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.0.1.5.
+5. Download Grannus Expansion Pack v1.1.0.0.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -42,7 +39,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.0.1.5.
+3. Download Grannus Expansion Pack v1.1.0.0.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
