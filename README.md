@@ -4,14 +4,15 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.1.0
+## v1.0.2
 
-* Added procedural craters to 8 celestial bodies.
+* Added procedural craters to eight celestial bodies.
 * Exported updated color and normal maps.
 * Completely reworked Cernunnos' color map.
-* Reworked Taranis' ocean, coastline and color.
+* Reworked Taranis' ocean (coastline and color).
+* Revised Taranis' biome map (shores).
 * Lowered Belisama's contrast and saturation.
-* Added subtle color to Damona.
+* Added subtle coloration to Damona.
 * Revised ScaledVersion and PQS fadeStart/End altitudes.
 * Disabled useOnDemandBiomes.
 * Updated CelestialBodies.pdf.
@@ -29,7 +30,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.1.0.0.
+5. Download Grannus Expansion Pack v1.0.2.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -39,7 +40,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.1.0.0.
+3. Download Grannus Expansion Pack v1.0.2.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -87,4 +88,3 @@ CC BY-NC-ND
   * PlanetShine works with GEP_Primary only, otherwise disabled.
   * EVE eclipses work with GEP_Primary only, otherwise disabled.
   * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
-  * EVE clouds do not match the diameter of Nodens in main menu.
