@@ -10,7 +10,7 @@ CC BY-NC-ND
 * Added an asteroid belt between Nodens and Sirona.
 * Added GEP flags for all planets (artwork by JadeofMaar).
 * Added delta-v map (artwork by JadeofMaar), deleted delta-v tables.
-* Added final frontier ribbons for new celestial bodies.
+* Added Final Frontier ribbons for new celestial bodies.
 * Added Epona clouds, misc. EVE and scatterer updates.
 * Added TweakChutes.cfg.
 * Replaced Taranis' lava texture, revised ocean, updated color map.
@@ -80,17 +80,17 @@ CC BY-NC-ND
 
 ## Recommended mods with support for or by GEP
 
-  * Environmental Visual Enhancements
-  * Scatterer
-  * Distant Object Enhancement
-  * Flare Replacer
-  * ResearchBodies
-  * Final Frontier
-  * Kerbal Health
-  * TweakChutes
-  * PlanetShine (GEP_Primary only)
-  * Kronometer (GEP_Primary only)
-  * Kerbalism (GEP_Primary only)
+  * [Environmental Visual Enhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases)
+  * [Scatterer](https://spacedock.info/mod/141/scatterer)
+  * [Distant Object Enhancement](https://github.com/MOARdV/DistantObject/releases/)
+  * [ResearchBodies](https://github.com/JPLRepo/ResearchBodies/releases)
+  * [Final Frontier](https://spacedock.info/mod/580/Final%20Frontier)
+  * [Kerbal Health](https://github.com/GarwelGarwel/KerbalHealth/releases)
+  * [Flare Replacer](https://github.com/Galileo88/FlareReplacer/releases)
+  * [TweakChutes](https://github.com/Sigma88/Sigma-TweakChutes/releases)
+  * [PlanetShine](https://github.com/prestja/ksp-planetshine/releases) (GEP_Primary only)
+  * [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) (GEP_Primary only)
+  * [Kronometer](https://github.com/StollD/Kronometer/releases) (GEP_Primary only)
 
 ## Known Issues
 
