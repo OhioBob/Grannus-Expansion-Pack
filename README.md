@@ -4,17 +4,25 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.2
+## v1.1.0
 
-* Added procedural craters to eight celestial bodies.
-* Exported updated color and normal maps.
-* Completely reworked Cernunnos' color map.
-* Reworked Taranis' ocean (coastline and color).
-* Revised Taranis' biome map (shores).
-* Lowered Belisama's contrast and saturation.
-* Added subtle coloration to Damona.
-* Revised ScaledVersion and PQS fadeStart/End altitudes.
-* Disabled useOnDemandBiomes.
+* Added three new celestial bodies - Toutatis, Sucellus and Caireen.
+* Added an asteroid belt between Nodens and Sirona.
+* Added GEP flags for all planets (artwork by JadeofMaar).
+* Added delta-v map (artwork by JadeofMaar), deleted delta-v tables.
+* Added final frontier ribbons for new celestial bodies.
+* Added Epona clouds, misc. EVE and scatterer updates.
+* Added TweakChutes.cfg.
+* Replaced Taranis' lava texture, revised ocean, updated color map.
+* Replaced Sirona's gradient with rimColorRamp.
+* Upgraded Brovo's color and normal maps to 4k.
+* Fixed seams in several planet/moon textures.
+* Increased maximum scatter density for boulders.
+* Revised distribution of resources (ore and CRP).
+* Revised Planet Shine and Distant Object colors.
+* Revised Research Bodies difficulty settings.
+* Revised configs for new celestial bodies as applicable.
+* Misc. other config changes, fixes, and house cleaning.
 * Updated CelestialBodies.pdf.
 
 ## Installation Instructions (with Stock, no GPP)
@@ -30,7 +38,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.0.2.
+5. Download Grannus Expansion Pack v1.1.0.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -40,7 +48,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.0.2.
+3. Download Grannus Expansion Pack v1.1.0.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -79,6 +87,7 @@ CC BY-NC-ND
   * ResearchBodies
   * Final Frontier
   * Kerbal Health
+  * TweakChutes
   * PlanetShine (GEP_Primary only)
   * Kronometer (GEP_Primary only)
   * Kerbalism (GEP_Primary only)
