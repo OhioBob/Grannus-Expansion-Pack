@@ -18,6 +18,7 @@ CC BY-NC-ND
 * Upgraded Brovo's color and normal maps to 4k.
 * Fixed seams in several planet/moon textures.
 * Increased maximum scatter density for boulders.
+* Revised Nodens' atmosphere (greater diurnal variation).
 * Revised distribution of resources (ore and CRP).
 * Revised Planet Shine and Distant Object colors.
 * Revised Research Bodies difficulty settings.
