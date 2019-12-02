@@ -9,7 +9,7 @@ CC BY-NC-ND
 * Added three new celestial bodies - Toutatis, Sucellus and Caireen.
 * Added an asteroid belt between Nodens and Sirona.
 * Added GEP flags for all planets (artwork by JadeOfMaar).
-* Added delta-v map (artwork by JadeOfMaar), deleted delta-v tables.
+* Added Δv map (artwork by JadeOfMaar), deleted Δv tables.
 * Added Final Frontier ribbons for new celestial bodies.
 * Added Epona clouds, misc. EVE updates.
 * Added Sirona rimColorRamp.
