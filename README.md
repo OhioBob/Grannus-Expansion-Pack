@@ -85,12 +85,12 @@ CC BY-NC-ND
 
   * [Environmental Visual Enhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases)
   * [Scatterer](https://spacedock.info/mod/141/scatterer)
-  * [Distant Object Enhancement](https://github.com/MOARdV/DistantObject/releases/)
+  * [Distant Object Enhancement](https://github.com/MOARdV/DistantObject/releases)
   * [ResearchBodies](https://github.com/JPLRepo/ResearchBodies/releases)
   * [Final Frontier](https://spacedock.info/mod/580/Final%20Frontier)
   * [Kerbal Health](https://github.com/GarwelGarwel/KerbalHealth/releases)
   * [Flare Replacer](https://github.com/Galileo88/FlareReplacer/releases)
-  * [TweakChutes](https://github.com/Sigma88/Sigma-TweakChutes/releases) - to make parachutes work the way they should
+  * [Sigma TweakChutes](https://github.com/Sigma88/Sigma-TweakChutes/releases) - to make parachutes work the way they should
   * [PlanetShine](https://github.com/prestja/ksp-planetshine/releases) (GEP_Primary only)
   * [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) (GEP_Primary only)
   * [Kronometer](https://github.com/StollD/Kronometer/releases) (GEP_Primary only)
