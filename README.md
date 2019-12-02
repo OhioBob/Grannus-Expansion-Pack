@@ -8,23 +8,25 @@ CC BY-NC-ND
 
 * Added three new celestial bodies - Toutatis, Sucellus and Caireen.
 * Added an asteroid belt between Nodens and Sirona.
-* Added GEP flags for all planets (artwork by JadeofMaar).
-* Added delta-v map (artwork by JadeofMaar), deleted delta-v tables.
+* Added GEP flags for all planets (artwork by JadeOfMaar).
+* Added delta-v map (artwork by JadeOfMaar), deleted delta-v tables.
 * Added Final Frontier ribbons for new celestial bodies.
-* Added Epona clouds, misc. EVE and scatterer updates.
+* Added Epona clouds, misc. EVE updates.
+* Added Sirona rimColorRamp.
 * Added TweakChutes.cfg.
 * Replaced Taranis' lava texture, revised ocean, updated color map.
-* Replaced Sirona's gradient with rimColorRamp.
+* Replaced Brovo's terrain texture.
 * Upgraded Brovo's color and normal maps to 4k.
 * Fixed seams in several planet/moon textures.
 * Increased maximum scatter density for boulders.
+* Revised scatterer settings, new .half files.
 * Revised Nodens' atmosphere (greater diurnal variation).
 * Revised distribution of resources (ore and CRP).
 * Revised Planet Shine and Distant Object colors.
 * Revised Research Bodies difficulty settings.
-* Revised configs for new celestial bodies as applicable.
-* Misc. other config changes, fixes, and house cleaning.
+* Updated configs for new celestial bodies as applicable.
 * Updated CelestialBodies.pdf.
+* Misc. other config changes, fixes, and house cleaning.
 
 ## Installation Instructions (with Stock, no GPP)
 
