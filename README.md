@@ -4,29 +4,15 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.1.0
+## v1.1.1
 
-* Added three new celestial bodies - Toutatis, Sucellus and Caireen.
-* Added an asteroid belt between Nodens and Sirona.
-* Added GEP flags for all planets (artwork by JadeOfMaar).
-* Added Δv map (artwork by JadeOfMaar), deleted Δv tables.
-* Added Final Frontier ribbons for new celestial bodies.
-* Added Epona clouds, misc. EVE updates.
-* Added Sirona rimColorRamp.
-* Added TweakChutes.cfg.
-* Replaced Taranis' lava texture, revised ocean, updated color map.
-* Replaced Brovo's terrain texture.
-* Upgraded Brovo's color and normal maps to 4k.
-* Fixed seams in several planet/moon textures.
-* Increased maximum scatter density for boulders.
-* Revised scatterer settings, new .half files.
-* Revised Nodens' atmosphere (greater diurnal variation).
-* Revised distribution of resources (ore and CRP).
-* Revised Planet Shine and Distant Object colors.
-* Revised Research Bodies difficulty settings.
-* Updated configs for new celestial bodies as applicable.
+* Added GEP_JNSQ to rescale GEP for installation with JNSQ.
+* Recomputed Sirona's atmosphere, reduced height.
+* Modified Sirona's scatter atmosphere.
+* Revised Δv map, recomputed descent/ascent values.
+* Deleted stock asteroids fields for GEP_Primary.
+* A few minor tweaks that no one will notice.
 * Updated CelestialBodies.pdf.
-* Misc. other config changes, fixes, and house cleaning.
 
 ## Installation Instructions (with Stock, no GPP)
 
@@ -41,7 +27,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.1.0.
+5. Download Grannus Expansion Pack v1.1.1.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -51,7 +37,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.1.0.
+3. Download Grannus Expansion Pack v1.1.1.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -74,6 +60,18 @@ CC BY-NC-ND
 2. To use GEP_CommNet, first download and install the third party mod [Custom Barn Kit](https://ksp.sarbian.com/jenkins/job/CustomBarnKit/).
 
 3. Copy [GEP Download]\Optional Mods\GEP_CommNet\GameData\GEP\GEP_CommNet to [KSP]\GameData\GEP\ .
+
+## GEP_JNSQ
+
+1. GEP_JNSQ is an optional add-on that rescales GEP 2.5x to provide compatibility with the JNSQ planet pack.
+
+2. To use GEP_JNSQ, first download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases), lastest version. Be sure to carefully follow all the JNSQ installation instructions.
+
+3. Download and install Grannus Expansion Pack v1.1.1 per the previous instructions.
+
+4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
+
+5. Note that GEP_JNSQ does not require Sigma Dimensions.
 
 ## Other Optional Mods
 
