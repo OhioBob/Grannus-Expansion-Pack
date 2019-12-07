@@ -8,7 +8,7 @@ CC BY-NC-ND
 
 * Added GEP_JNSQ to rescale GEP for installation with JNSQ.
 * Recomputed Sirona's atmosphere, reduced height.
-* Modified Sirona's scatter atmosphere.
+* Modified Sirona's scatterer atmosphere.
 * Revised Δv map, recomputed descent/ascent values.
 * Deleted stock asteroids fields for GEP_Primary.
 * A few minor tweaks that no one will notice.
