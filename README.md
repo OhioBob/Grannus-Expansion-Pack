@@ -53,6 +53,18 @@ CC BY-NC-ND
 
 5. GEP_Primary is not recommended for beginner players.
 
+## GEP_JNSQ
+
+1. GEP_JNSQ is an optional add-on that rescales GEP 2.5x to provide compatibility with the JNSQ planet pack.
+
+2. To use, first download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases), lastest version. Be sure to follow all the JNSQ installation instructions.
+
+3. Download and install Grannus Expansion Pack v1.1.1 per the previous instructions.
+
+4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
+
+5. Note that GEP_JNSQ does not require Sigma Dimensions.
+
 ## GEP_CommNet
 
 1. GEP_CommNet is an optional add-on that increases communications range by adding a level 4 Tracking Station and a powerful additional antenna. With both upgrades, a line of communication can reach between Grannus and the Sun/Ciro.
@@ -60,18 +72,6 @@ CC BY-NC-ND
 2. To use GEP_CommNet, first download and install the third party mod [Custom Barn Kit](https://ksp.sarbian.com/jenkins/job/CustomBarnKit/).
 
 3. Copy [GEP Download]\Optional Mods\GEP_CommNet\GameData\GEP\GEP_CommNet to [KSP]\GameData\GEP\ .
-
-## GEP_JNSQ
-
-1. GEP_JNSQ is an optional add-on that rescales GEP 2.5x to provide compatibility with the JNSQ planet pack.
-
-2. To use GEP_JNSQ, first download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases), lastest version. Be sure to carefully follow all the JNSQ installation instructions.
-
-3. Download and install Grannus Expansion Pack v1.1.1 per the previous instructions.
-
-4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
-
-5. Note that GEP_JNSQ does not require Sigma Dimensions.
 
 ## Other Optional Mods
 
