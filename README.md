@@ -4,15 +4,15 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.1.1
+## v1.1.2
 
-* Added GEP_JNSQ to rescale GEP for installation with JNSQ.
-* Recomputed Sirona's atmosphere, reduced height.
-* Modified Sirona's scatterer atmosphere.
-* Revised Δv map, recomputed descent/ascent values.
-* Deleted stock asteroids fields for GEP_Primary.
-* A few minor tweaks that no one will notice.
-* Updated CelestialBodies.pdf.
+**For GEP_JNSQ:**
+* Added Red Esther sunflare by JadeOfMaar, to match JNSQ art style.
+* Used JNSQ's water texture for Nodens in place of stock texture.
+* Increased maxLevel for better terrain detail and scatter density.
+* Deleted maxScatter multiplier.
+* Adjusted navballSwitchRadius.
+* Changed Grannus' semimajor axis.
 
 ## Installation Instructions (with Stock, no GPP)
 
@@ -27,7 +27,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.1.1.
+5. Download Grannus Expansion Pack v1.1.2.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -37,7 +37,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.1.1.
+3. Download Grannus Expansion Pack v1.1.2.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -59,7 +59,7 @@ CC BY-NC-ND
 
 2. To use, first download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases), lastest version. Be sure to follow all the JNSQ installation instructions.
 
-3. Download and install Grannus Expansion Pack v1.1.1 per the previous instructions.
+3. Download and install Grannus Expansion Pack v1.1.2 per the previous instructions.
 
 4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
 
