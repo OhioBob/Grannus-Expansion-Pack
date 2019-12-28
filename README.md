@@ -4,15 +4,11 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.1.2
+## v1.1.3
 
 **For GEP_JNSQ:**
-* Added Red Esther sunflare by JadeOfMaar, to match JNSQ art style.
-* Used JNSQ's water texture for Nodens in place of stock texture.
-* Increased maxLevel for better terrain detail and scatter density.
-* Deleted maxScatter multiplier.
-* Adjusted navballSwitchRadius.
-* Changed Grannus' semimajor axis.
+* Added custom science definitions, by darwinpatrick.
+* Activated Kopernicus solar panels for GEP_JNSQ.
 
 ## Installation Instructions (with Stock, no GPP)
 
@@ -27,7 +23,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.1.2.
+5. Download Grannus Expansion Pack v1.1.3.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -37,7 +33,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.1.2.
+3. Download Grannus Expansion Pack v1.1.3.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -59,7 +55,7 @@ CC BY-NC-ND
 
 2. To use, first download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases), lastest version. Be sure to follow all the JNSQ installation instructions.
 
-3. Download and install Grannus Expansion Pack v1.1.2 per the previous instructions.
+3. Download and install Grannus Expansion Pack v1.1.3 per the previous instructions.
 
 4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
 
