@@ -6,7 +6,6 @@ CC BY-NC-ND
 ## Changelog
 ## v1.1.3
 
-**For GEP_JNSQ:**
 * Added custom science definitions, by darwinpatrick.
 * Activated Kopernicus solar panels for GEP_JNSQ.
 
