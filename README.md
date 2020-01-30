@@ -4,25 +4,24 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.1.3
+## v1.1.4
 
-* Added custom science definitions, by darwinpatrick.
-* Activated Kopernicus solar panels for GEP_JNSQ.
+* Updated to Kopernicus 1.8.1
 
 ## Installation Instructions (with Stock, no GPP)
 
-1. Begin with an installation of KSP version 1.7.1 or later, running in 64-bit.
+1. Begin with an installation of KSP version 1.8.1 or later, running in 64-bit.
 
 2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
 
-3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, e.g. 1.7.1-x.
+3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, e.g. 1.8.1-x.
 
 4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
    * Kopernicus
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.1.3.
+5. Download Grannus Expansion Pack v1.1.4.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -32,7 +31,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.1.3.
+3. Download Grannus Expansion Pack v1.1.4.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -54,7 +53,7 @@ CC BY-NC-ND
 
 2. To use, first download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases), lastest version. Be sure to follow all the JNSQ installation instructions.
 
-3. Download and install Grannus Expansion Pack v1.1.3 per the previous instructions.
+3. Download and install Grannus Expansion Pack v1.1.4 per the previous instructions.
 
 4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
 
