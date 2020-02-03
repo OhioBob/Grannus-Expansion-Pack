@@ -7,6 +7,7 @@ CC BY-NC-ND
 ## v1.1.4
 
 * Updated to Kopernicus 1.8.1
+* Updated to Scatterer 0.0542
 
 ## Installation Instructions (with Stock, no GPP)
 
