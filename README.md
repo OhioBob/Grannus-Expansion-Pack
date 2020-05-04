@@ -4,10 +4,11 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.1.4
+## v1.1.5
 
-* Updated to Kopernicus 1.8.1
-* Updated to Scatterer 0.055
+* Upgraded to use shader introduced in KSP v1.8.
+* New and improved terrain textures for all celestial bodies.
+* Optional mod to revert textures for older versions of KSP.
 
 ## Installation Instructions (with Stock, no GPP)
 
@@ -22,7 +23,7 @@ CC BY-NC-ND
    * ModularFlightIntergrator
    * ModuleManager
 
-5. Download Grannus Expansion Pack v1.1.4.
+5. Download Grannus Expansion Pack v1.1.5.
 
 6. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -32,7 +33,7 @@ CC BY-NC-ND
 
 2. If you have an existing [KSP]\GameData\GEP folder from a previous installation, delete it. 
 
-3. Download Grannus Expansion Pack v1.1.4.
+3. Download Grannus Expansion Pack v1.1.5.
 
 4. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -40,7 +41,7 @@ CC BY-NC-ND
 
 1. GEP_Primary is an optional add-on that turns GEP into a primary star system, with Grannus as the central star and Nodens the home world.
 
-2. To use GEP_Primary, first install GEP per the instructions above (with Stock, no GPP).
+2. To use GEP_Primary, first download and install Grannus Expansion Pack per the GEP installation instructions.
 
 3. Copy [GEP Download]\Optional Mods\GEP_Primary\GameData\GEP_Primary to [KSP]\GameData\ .
 
@@ -54,7 +55,7 @@ CC BY-NC-ND
 
 2. To use, first download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases), lastest version. Be sure to follow all the JNSQ installation instructions.
 
-3. Download and install Grannus Expansion Pack v1.1.4 per the previous instructions.
+3. Download and install Grannus Expansion Pack per the GEP installation instructions.
 
 4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
 
@@ -66,7 +67,13 @@ CC BY-NC-ND
 
 2. To use GEP_CommNet, first download and install the third party mod [Custom Barn Kit](https://ksp.sarbian.com/jenkins/job/CustomBarnKit/).
 
-3. Copy [GEP Download]\Optional Mods\GEP_CommNet\GameData\GEP\GEP_CommNet to [KSP]\GameData\GEP\ .
+3. Copy/merge [GEP Download]\Optional Mods\GEP_CommNet\GameData\GEP to [KSP]\GameData\ .
+
+## GEP_LegacyTerrain
+
+1. GEP_LegacyTerrain is an optional add-on that reverts GEP's terrain textures to those used prior to KSP v1.8. This is required for anyone playing GEP on KSP 1.7.3 or older.
+
+2. To install, copy/merge [GEP Download]\Optional Mods\GEP_LegacyTerrain\GameData\GEP to [KSP]\GameData\ .
 
 ## Other Optional Mods
 

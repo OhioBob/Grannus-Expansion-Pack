@@ -4,7 +4,7 @@
 
 2. To use GEP_Primary, first download and install Grannus Expansion Pack per the GEP installation instructions.
 
-3. Copy [GEP Download]\Optional Mods\GEP_Primary\GameData\GEP_Primary to [KSP]\GameData\.
+3. Copy [GEP Download]\Optional Mods\GEP_Primary\GameData\GEP_Primary to [KSP]\GameData\ .
 
 4. If GEP + GEP_Primary is installed in combination with GPP + GPP_Secondary, then GPP is added as a secondary star system orbiting Grannus.
 

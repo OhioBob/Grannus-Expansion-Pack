@@ -6,6 +6,6 @@
 
 3. Download and install Grannus Expansion Pack per the GEP installation instructions.
 
-4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\.
+4. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
 
 5. Note that GEP_JNSQ does not require Sigma Dimensions.
