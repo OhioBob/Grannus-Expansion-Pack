@@ -8,7 +8,6 @@ CC BY-NC-ND
 
 * Upgraded to use shader introduced in KSP v1.8.
 * New and improved terrain textures for all celestial bodies.
-* Optional mod to revert textures for older versions of KSP.
 
 ## Installation Instructions (with Stock, no GPP)
 
@@ -68,12 +67,6 @@ CC BY-NC-ND
 2. To use GEP_CommNet, first download and install the third party mod [Custom Barn Kit](https://ksp.sarbian.com/jenkins/job/CustomBarnKit/).
 
 3. Copy/merge [GEP Download]\Optional Mods\GEP_CommNet\GameData\GEP to [KSP]\GameData\ .
-
-## GEP_LegacyTerrain
-
-1. GEP_LegacyTerrain is an optional add-on that reverts GEP's terrain textures to those used prior to KSP v1.8. This is required for anyone playing GEP on KSP 1.7.3 or older.
-
-2. To install, copy/merge [GEP Download]\Optional Mods\GEP_LegacyTerrain\GameData\GEP to [KSP]\GameData\ .
 
 ## Other Optional Mods
 
