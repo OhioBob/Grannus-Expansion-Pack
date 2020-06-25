@@ -1,14 +1,14 @@
 ﻿# Grannus-Expansion-Pack
 
-This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
-CC BY-NC-ND
+Grannus Expansion Pack (GEP) is an planet pack that turns a single star system into a binary system by adding the red dwarf star Grannus, along with its family of five major planets, two dwarf planets, and seven moons.
 
-## Changelog
-## v1.1.5
+GEP is designed to provide several installation options. It can be added to the stock solar system, Galileo's Planet Pack (GPP), or JNSQ. It also works in combination with Outer Planets Mod (OPM).  And with the optional add-on GEP_Primary, GEP takes center stage as the primary star system, with the planet Nodens as the home world.
 
-* Upgraded to use shader introduced in KSP v1.8.
-* New and improved terrain textures for all celestial bodies.
-* Bundled Sigma TweakChutes and HeatShifter.
+## Requirements
+
+  * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-1.8.1-1) for 1.8.1, or [Kopernicus Continued](https://github.com/prestja/Kopernicus/releases/) for 1.9.1
+  * ModularFlightIntegrator
+  * Module Manager
 
 ## Installation Instructions
 
@@ -16,7 +16,7 @@ CC BY-NC-ND
 
 2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
 
-3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, e.g. 1.8.1-x.
+3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-1.8.1-1), or [Kopernicus Continued](https://github.com/prestja/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, e.g. 1.8.1-x.
 
 4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
    * Kopernicus
@@ -25,7 +25,7 @@ CC BY-NC-ND
 
 5. If installing with [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases) or [JNSQ](https://github.com/Galileo88/JNSQ/releases), it is recommended that you download and install those mods first, and confirm their correct operation before installing GEP. Be sure to carefully follow all the GPP or JNSQ installation instructions.
 
-6. Download Grannus Expansion Pack v1.1.5.
+6. Download Grannus Expansion Pack v1.1.6.
 
 7. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -89,3 +89,7 @@ Sigma HeatShifter - Required to correctly align minimum and maximum global tempe
   * PlanetShine works with GEP_Primary only, otherwise disabled.
   * EVE eclipses work with GEP_Primary only, otherwise disabled.
   * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
+
+## License
+
+This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND)

@@ -1,8 +1,8 @@
 {
   "NAME": "GrannusExpansionPack",
-  "URL": "https://raw.githubusercontent.com/OhioBob/Grannus-Expansion-Pack/master/GameData/GEP/GrannusExpansionPack.version",  
+  "URL": "https://raw.githubusercontent.com/OhioBob/Grannus-Expansion-Pack/master/GameData/GEP/Version/GrannusExpansionPack.version",  
   "DOWNLOAD": "https://github.com/OhioBob/Grannus-Expansion-Pack/releases",
-  "CHANGE_LOG_URL": "https://github.com/OhioBob/Grannus-Expansion-Pack/blob/master/README.md",
+  "CHANGE_LOG_URL": "https://raw.githubusercontent.com/OhioBob/Grannus-Expansion-Pack/master/GameData/GEP/Version/Changelog.md",
   "GITHUB": {
     "USERNAME": "OhioBob",
     "REPOSITORY": "Grannus-Expansion-Pack"
@@ -10,7 +10,7 @@
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 1,
-    "PATCH": 5,
+    "PATCH": 6,
     "BUILD": 0
   },
   "KSP_VERSION_MIN": {
