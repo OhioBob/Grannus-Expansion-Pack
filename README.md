@@ -1,4 +1,5 @@
-﻿# Grannus-Expansion-Pack
+﻿![GEP](https://i.imgur.com/FYW1iTU.jpg)
+# Grannus Expansion Pack
 
 Grannus Expansion Pack (GEP) is an planet pack that turns a single star system into a binary system by adding the red dwarf star Grannus, along with its family of five major planets, two dwarf planets, and seven moons.
 
