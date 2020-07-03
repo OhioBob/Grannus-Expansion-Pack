@@ -90,7 +90,7 @@ Sigma HeatShifter - Required to correctly align minimum and maximum global tempe
 
 ## Planet Pack Compatibility
 
-GEP works with the stock solar system, [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod/releases), and [Minor Planets Expansion](https://spacedock.info/mod/2383/Minor Planets Expansion?ga=<Game+3102+'Kerbal+Space+Program'>) in a variety of configurations (both primary and secondary). Orbits are modified as necessary to assure seamless integration.
+GEP works with the stock solar system, [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod/releases), and [Minor Planets Expansion](https://spacedock.info/mod/2383/Minor%20Planets%20Expansion?ga=%3CGame+3102+%27Kerbal+Space+Program%27%3E) in a variety of configurations (both primary and secondary). Orbits are modified as necessary to assure seamless integration.
 
 ## Known Issues
 
