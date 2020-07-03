@@ -1,5 +1,16 @@
 # Grannus Expansion Pack
 
+## TBD
+:bookmark: *KSP 1.8.1  or newer*
+* Added support for Minor Planets Expansion.
+* Added Breaking Ground surface features.
+* Added anomalies using Kerbal Konstructs for GEP_Primary.
+* Enabled Randoliths on all celestial bodies.
+* Revised stock asteroids to work better with GEP.
+* Updated TweakChutes to work with FAR.
+* Fixed some discrepancies between GEP and GEP_Primary.
+* Added NEEDS to items specific to Making History.
+
 ## 1.1.6
 :bookmark: *KSP 1.8.1  or newer*
 * Revised asteroids (now more reliable with shorter untracked lifetimes).
