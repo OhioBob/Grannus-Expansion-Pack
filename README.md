@@ -10,7 +10,7 @@ GEP is designed to provide several installation options. It can be added to the 
   * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-1.8.1-1) for 1.8.1, or [Kopernicus Continued](https://github.com/prestja/Kopernicus/releases/) for 1.9.1
   * ModularFlightIntegrator
   * Module Manager
-
+  
 ## Installation Instructions
 
 1. Begin with an installation of KSP version 1.8.1 or later, running in 64-bit.
@@ -39,6 +39,8 @@ To install GEP_Primary:
 1. Download and install Grannus Expansion Pack per the installation instructions.
 
 2. Copy [GEP Download]\Optional Mods\GEP_Primary\GameData\GEP_Primary to [KSP]\GameData\ .
+
+3. For implementation of anomalies, download and install [Kerbal Konstructs](https://github.com/GER-Space/Kerbal-Konstructs/releases).
 
 ## GEP_JNSQ
 
@@ -84,6 +86,11 @@ Sigma HeatShifter - Required to correctly align minimum and maximum global tempe
   * [PlanetShine](https://github.com/prestja/ksp-planetshine/releases) (GEP_Primary only)
   * [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) (GEP_Primary only)
   * [Kronometer](https://github.com/StollD/Kronometer/releases) (GEP_Primary only)
+  * [Kerbal Konstructs](https://github.com/GER-Space/Kerbal-Konstructs/releases) (GEP_Primary only)
+
+## Planet Pack Compatibility
+
+GEP works with the stock solar system, [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod/releases), and [Minor Planets Expansion](https://spacedock.info/mod/2383/Minor Planets Expansion?ga=<Game+3102+'Kerbal+Space+Program'>) in a variety of configurations (both primary and secondary). Orbits are modified as necessary to assure seamless integration.
 
 ## Known Issues
 
