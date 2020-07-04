@@ -1,6 +1,6 @@
 # Grannus Expansion Pack
 
-## TBD
+## 1.2.0
 :bookmark: *KSP 1.8.1  or newer*
 * Added support for Minor Planets Expansion.
 * Added Breaking Ground surface features.

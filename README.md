@@ -26,7 +26,7 @@ GEP is designed to provide several installation options. It can be added to the 
 
 5. If installing with [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases) or [JNSQ](https://github.com/Galileo88/JNSQ/releases), it is recommended that you download and install those mods first, and confirm their correct operation before installing GEP. Be sure to carefully follow all the GPP or JNSQ installation instructions.
 
-6. Download Grannus Expansion Pack v1.1.6.
+6. Download Grannus Expansion Pack v1.2.0.
 
 7. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -74,6 +74,12 @@ Sigma TweakChutes - Changes parachute behavior so that parachutes won't fully de
 
 Sigma HeatShifter - Required to correctly align minimum and maximum global temperatures to the sun's directional axis for tidally locked atmospheric planets (Toutatis).
 
+## Planet Pack Compatibility
+
+GEP works with the stock solar system, [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod/releases), and [Minor Planets Expansion](https://spacedock.info/mod/2383/Minor%20Planets%20Expansion?ga=%3CGame+3102+%27Kerbal+Space+Program%27%3E) in a variety of configurations, both primary and secondary. Orbits are modified as necessary to assure seamless integration.
+
+GEP also works with [JNSQ](https://github.com/Galileo88/JNSQ/releases) using the optional add-on GEP_JNSQ (see instructions above). At present, GEP is the only planet pack known to be rescaled and configured specifically for use alongside JNSQ. 
+
 ## Recommended mods with support for or by GEP
 
   * [Environmental Visual Enhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases)
@@ -87,10 +93,6 @@ Sigma HeatShifter - Required to correctly align minimum and maximum global tempe
   * [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) (GEP_Primary only)
   * [Kronometer](https://github.com/StollD/Kronometer/releases) (GEP_Primary only)
   * [Kerbal Konstructs](https://github.com/GER-Space/Kerbal-Konstructs/releases) (GEP_Primary only)
-
-## Planet Pack Compatibility
-
-GEP works with the stock solar system, [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod/releases), and [Minor Planets Expansion](https://spacedock.info/mod/2383/Minor%20Planets%20Expansion?ga=%3CGame+3102+%27Kerbal+Space+Program%27%3E) in a variety of configurations (both primary and secondary). Orbits are modified as necessary to assure seamless integration.
 
 ## Known Issues
 
