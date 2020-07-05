@@ -1,5 +1,10 @@
 # Grannus Expansion Pack
 
+## 1.2.1
+:bookmark: *KSP 1.8.1  or newer*
+* Moved Breaking Ground surface features to GEP_Primary only.
+* Revised Breaking Ground science definitions.
+
 ## 1.2.0
 :bookmark: *KSP 1.8.1  or newer*
 * Added support for Minor Planets Expansion.
