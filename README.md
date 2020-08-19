@@ -7,7 +7,7 @@ GEP is designed to provide several installation options. It can be added to the 
 
 ## Requirements
 
-  * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-1.8.1-1) for 1.8.1, or [Kopernicus Continued](https://github.com/prestja/Kopernicus/releases/) for 1.9.1
+  * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
   * ModularFlightIntegrator
   * Module Manager
   
@@ -17,7 +17,7 @@ GEP is designed to provide several installation options. It can be added to the 
 
 2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
 
-3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-1.8.1-1), or [Kopernicus Continued](https://github.com/prestja/Kopernicus/releases/). The Kopernicus version number must match the KSP version number, e.g. 1.8.1-x.
+3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases). The Kopernicus version number must match the KSP version number, e.g. 1.8.1-x.
 
 4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
    * Kopernicus
