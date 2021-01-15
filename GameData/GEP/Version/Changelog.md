@@ -1,5 +1,11 @@
 # Grannus Expansion Pack
 
+## 1.2.2
+:bookmark: *KSP 1.8.1  or newer*
+* Replaced GEP_JNSQ with GEP_Rescale.
+* Revised Kronometer calendar for GEP_Primary.
+* Revised AtmosphereFromGround for Nodens.
+
 ## 1.2.1
 :bookmark: *KSP 1.8.1  or newer*
 * Moved Breaking Ground surface features to GEP_Primary only.

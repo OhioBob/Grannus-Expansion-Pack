@@ -26,7 +26,7 @@ GEP is designed to provide several installation options. It can be added to the 
 
 5. If installing with [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases) or [JNSQ](https://github.com/Galileo88/JNSQ/releases), it is recommended that you download and install those mods first, and confirm their correct operation before installing GEP. Be sure to carefully follow all the GPP or JNSQ installation instructions.
 
-6. Download Grannus Expansion Pack v1.2.1.
+6. Download Grannus Expansion Pack v1.2.2.
 
 7. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 
@@ -42,15 +42,19 @@ To install GEP_Primary:
 
 3. For implementation of anomalies, download and install [Kerbal Konstructs](https://github.com/GER-Space/Kerbal-Konstructs/releases).
 
-## GEP_JNSQ
+## GEP_Rescale
 
-GEP_JNSQ is an optional add-on that rescales GEP 2.5x to provide compatibility with the JNSQ planet pack. Note that GEP_JNSQ does not require Sigma Dimensions.
+GEP_Rescale is an optional config that rescales the GEP solar system to 2.5x its normal size, for use in combination with either GEP_Primary or the JNSQ planet pack. Rescaling is accomplished without the use of Sigma Dimensions. If GEP is used in any installation where Sigma Dimensions is used to perform rescaling, then GEP_Rescale should not be installed.
 
-To install GEP_JNSQ:
+To install GEP_Rescale:
 
-1. Download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases) and GEP per the installation instructions.
+1. Download and install Grannus Expansion Pack per the installation instructions.
 
-2. Copy [GEP Download]\Optional Mods\GEP_JNSQ\GameData\GEP_JNSQ to [KSP]\GameData\ .
+2. If to be used with GEP_Primary, install GEP_Primary per the installation instructions above.
+
+3. If to be used with JNSQ, download and install [JNSQ](https://github.com/Galileo88/JNSQ/releases) per the installation instructions.
+
+4. Copy [GEP Download]\Optional Mods\GEP_Rescale\GameData\GEP_Rescale to [KSP]\GameData\ .
 
 ## GEP_CommNet
 
