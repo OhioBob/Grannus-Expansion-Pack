@@ -26,7 +26,7 @@ GEP is designed to provide several installation options. It can be added to the 
 
 5. If installing with [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases) or [JNSQ](https://github.com/Galileo88/JNSQ/releases), it is recommended that you download and install those mods first, and confirm their correct operation before installing GEP. Be sure to carefully follow all the GPP or JNSQ installation instructions.
 
-6. Download Grannus Expansion Pack v1.2.2.
+6. Download Grannus Expansion Pack v1.2.3.
 
 7. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
 

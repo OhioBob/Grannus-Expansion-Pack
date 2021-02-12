@@ -1,5 +1,11 @@
 # Grannus Expansion Pack
 
+## 1.2.3
+:bookmark: *KSP 1.8.1  or newer*
+* Changed starting position & rotation of Nodens and Belisama.
+* Deleted MyRocksAreBiggerThanYours.dll.
+* Fixed error in GEP_CommNet.restockblacklist.
+
 ## 1.2.2
 :bookmark: *KSP 1.8.1  or newer*
 * Replaced GEP_JNSQ with GEP_Rescale.
