@@ -1,15 +1,15 @@
 # Grannus Expansion Pack
 
 # 1.2.4 Changelog
-:bookmark: *KSP 1.8.1  or newer*
-* Added GEP_Rescale for 2.5x and 10x versions of GEP.
+:bookmark: *KSP 1.12.1  or newer*
+* Added Optional Mods: GEP_Rescale for 2.5x and 10x versions of GEP.
 * Revised atmospheres (surface pressure unchanged, heights different).
 * Revised rotation periods of Sirona, RAB-58E & Cernunnos.
 * Revised flying altitude thresholds.
 * Revised NavBall switch radius multipliers.
-* Revised Taranis' lava texture and color.
 * Revised scatterer atmosphere textures and configs.
 * Revised EVE Clouds for better compatibility with other mods.
+* Revised Taranis' lava texture and color.
 * Revised RAB-58E's MaxZoom and MaxLevel.
 * Updated CelestialBodies.pdf.
 
