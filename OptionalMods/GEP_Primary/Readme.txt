@@ -6,4 +6,8 @@ To install GEP_Primary:
 
 1. Download and install Grannus Expansion Pack per the installation instructions.
 
-2. Copy [GEP Download]\Optional Mods\GEP_Primary\GameData\GEP_Primary to [KSP]\GameData\ .
+2. Drill down to [GEP Download]\Optional Mods\GEP_Primary\ .
+
+3. Copy/merge the GameData folder into your KSP install.
+
+4. For implementation of anomalies, download and install [Kerbal Konstructs](https://github.com/GER-Space/Kerbal-Konstructs/releases).

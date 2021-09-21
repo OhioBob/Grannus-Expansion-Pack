@@ -6,4 +6,6 @@ To install GEP_CommNet:
 
 1. Download and install the third party mod [Custom Barn Kit](https://ksp.sarbian.com/jenkins/job/CustomBarnKit/).
 
-2. Copy/merge [GEP Download]\Optional Mods\GEP_CommNet\GameData\GEP to [KSP]\GameData\ .
+2. Drill down to [GEP Download]\Optional Mods\GEP_CommNet\ .
+
+3. Copy/merge the GameData folder into your KSP install.
