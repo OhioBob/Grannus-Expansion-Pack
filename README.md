@@ -27,13 +27,6 @@ GEP is designed to provide several installation options. It can be added to the 
 
 7. Install by copying/merging the GameData folder from the GEP download to your KSP install.
 
-8. For successful installation the following folders/applications must appear in your KSP GameData folder:
-   * GEP
-   * Kopernicus
-   * ModularFlightIntergrator
-   * Squad
-   * ModuleManager
-
 ## GEP_Primary
 
 GEP_Primary is an optional add-on that turns GEP into a primary star system, with Grannus as the central star and Nodens the home world. If GEP + GEP_Primary is installed in combination with GPP + GPP_Secondary, then GPP is added as a secondary star system orbiting Grannus. GEP_Primary is not recommended for beginner players.
