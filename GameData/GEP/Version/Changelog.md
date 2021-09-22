@@ -10,7 +10,7 @@
 * Revised scatterer atmosphere textures and configs.
 * Revised EVE Clouds for better compatibility with other mods.
 * Revised Taranis' lava texture and color.
-* Revised RAB-58E's MaxZoom and MaxLevel.
+* Revised RAB-58E's fade limits to fix frame rate drop.
 * Updated CelestialBodies.pdf.
 
 ## 1.2.3
