@@ -15,20 +15,24 @@ GEP is designed to provide several installation options. It can be added to the 
 
 1. Begin with an installation of KSP version 1.12.1 or later, running in 64-bit.
 
-2. If reusing an existing install, empty the GameData folder of all contents but for the folder [KSP]\GameData\Squad\. If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
+2. If reusing an existing install, empty the GameData folder of all contents but for the folders "Squad" and (if you own DLCs) "SquadExpansion". If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
 
 3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases). The Kopernicus version number must match the KSP version number, e.g. 1.12.1-x.
 
-4. Install by copying from [Kopernicus Download]\GameData\ to [KSP]\GameData\ the following folders and files:  
-   * Kopernicus
-   * ModularFlightIntergrator
-   * ModuleManager
+4. Install by copying/merging the GameData folder from the Kopernicus download to your KSP install.
 
 5. If installing with [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases) or [JNSQ](https://github.com/Galileo88/JNSQ/releases), it is recommended that you download and install those mods first, and confirm their correct operation before installing GEP. Be sure to carefully follow all the GPP or JNSQ installation instructions.
 
 6. Download Grannus Expansion Pack v1.2.4.
 
-7. Copy from [GEP Download]\GameData\ to [KSP]\GameData\ the folder GEP and all its contents.
+7. Install by copying/merging the GameData folder from the GEP download to your KSP install.
+
+8. For successful installation the following folders/applications must appear in your KSP GameData folder:
+   * GEP
+   * Kopernicus
+   * ModularFlightIntergrator
+   * Squad
+   * ModuleManager
 
 ## GEP_Primary
 
@@ -76,7 +80,7 @@ To install GEP_Rescale:
 
 ## Other Optional Mods
 
-Install the optional mods of your choice by drilling down to [GEP Download]\Optional Mods\GEP_[mod name]\ and then copying or merging the GameData folder into your KSP install.
+Install the optional mods of your choice by drilling down to [GEP Download]\Optional Mods\GEP_[mod name]\ and then copying/merging the GameData folder into your KSP install.
 
 If using [Final Frontier](https://spacedock.info/mod/580/Final%20Frontier), it must be downloaded and installed separately.
 
