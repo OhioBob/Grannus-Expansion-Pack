@@ -15,7 +15,7 @@ GEP is designed to provide several installation options. It can be added to the 
 
 1. Begin with an installation of KSP version 1.12.1 or later, running in 64-bit.
 
-2. If reusing an existing install, empty the GameData folder of all contents but for the folders "Squad" and (if you own DLCs) "SquadExpansion". If starting with an entirely new install, is it recommended that you run KSP once with no mods installed before proceeding.
+2. If reusing an existing install, empty the GameData folder of all contents but for the folders "Squad" and (if you own DLCs) "SquadExpansion". If starting with an entirely new install, it is recommended that you run KSP once with no mods installed before proceeding.
 
 3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases). The Kopernicus version number must match the KSP version number, e.g. 1.12.1-x.
 
