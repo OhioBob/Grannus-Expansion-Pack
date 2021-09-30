@@ -1,5 +1,10 @@
 # Grannus Expansion Pack
 
+# 1.2.4.1 Changelog
+:bookmark: *KSP 1.12.1  or newer*
+* Fixed bug in clouds for Rescale mods.
+* Miscellaneous other minor fixes.
+
 # 1.2.4 Changelog
 :bookmark: *KSP 1.12.1  or newer*
 * Added Optional Mods: GEP_Rescale for 2.5x and 10x versions of GEP.
