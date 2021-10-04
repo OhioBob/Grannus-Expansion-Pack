@@ -2,8 +2,9 @@
 
 # 1.2.4.1 Changelog
 :bookmark: *KSP 1.12.1  or newer*
-* Add higher resolution clouds for Nodens and Epona.
+* Added higher resolution clouds for Nodens and Epona.
 * Fixed bug in clouds heights for Rescale mods.
+* Adjusted time warp limits for new atmosphere heights.
 * Miscellaneous other minor fixes.
 
 # 1.2.4 Changelog
