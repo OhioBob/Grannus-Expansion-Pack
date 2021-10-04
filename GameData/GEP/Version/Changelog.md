@@ -2,7 +2,7 @@
 
 # 1.2.4.1 Changelog
 :bookmark: *KSP 1.12.1  or newer*
-* Switched to high-resolution (8k) cloud texture for Nodens.
+* Add higher resolution clouds for Nodens and Epona.
 * Fixed bug in clouds heights for Rescale mods.
 * Miscellaneous other minor fixes.
 
