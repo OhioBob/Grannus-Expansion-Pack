@@ -23,7 +23,7 @@ GEP is designed to provide several installation options. It can be added to the 
 
 5. If installing with [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases) or [JNSQ](https://github.com/Galileo88/JNSQ/releases), it is recommended that you download and install those mods first, and confirm their correct operation before installing GEP. Be sure to carefully follow all the GPP or JNSQ installation instructions.
 
-6. Download Grannus Expansion Pack v1.2.5.
+6. Download Grannus Expansion Pack v1.2.6.
 
 7. Install by copying/merging the GameData folder from the GEP download to your KSP install.
 
@@ -92,7 +92,7 @@ GEP also works with [JNSQ](https://github.com/Galileo88/JNSQ/releases) using the
 ## Recommended mods with support for or by GEP
 
   * [Environmental Visual Enhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases)
-  * [Scatterer](https://spacedock.info/mod/141/scatterer)
+  * [Scatterer, v0.0772](https://spacedock.info/mod/141/scatterer)
   * [Distant Object Enhancement](https://github.com/MOARdV/DistantObject/releases)
   * [ResearchBodies](https://github.com/JPLRepo/ResearchBodies/releases)
   * [Final Frontier](https://spacedock.info/mod/580/Final%20Frontier)
@@ -108,6 +108,7 @@ GEP also works with [JNSQ](https://github.com/Galileo88/JNSQ/releases) using the
   * PlanetShine works with GEP_Primary only, otherwise disabled.
   * EVE eclipses work with GEP_Primary only, otherwise disabled.
   * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
+  * This planet pack is not compatible with Scatterer v0.0825b, use v0.0772.
 
 ## License
 

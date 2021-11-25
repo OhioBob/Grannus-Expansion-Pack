@@ -1,5 +1,10 @@
 # Grannus Expansion Pack
 
+# 1.2.6 Changelog
+:bookmark: *KSP 1.12.1  or newer*
+* Added DeployedScience config.
+* EVE fixes to improve compatibility with GPP.
+
 # 1.2.5 Changelog
 :bookmark: *KSP 1.12.1  or newer*
 * Added higher resolution clouds for Nodens and Epona.
