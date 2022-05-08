@@ -1,5 +1,10 @@
 # Grannus Expansion Pack
 
+# 1.2.7 Changelog
+:bookmark: *KSP 1.12.2  or newer*
+* Increased Nodens' SOI to 26,000 km (now completes contains Belisama's SOI).
+* Fixed Grannus' sunflare for GEP_Primary.
+
 # 1.2.6 Changelog
 :bookmark: *KSP 1.12.1  or newer*
 * Added DeployedScience config.

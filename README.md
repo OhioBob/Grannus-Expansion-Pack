@@ -13,17 +13,17 @@ GEP is designed to provide several installation options. It can be added to the 
   
 ## Installation Instructions
 
-1. Begin with an installation of KSP version 1.12.1 or later, running in 64-bit.
+1. Begin with an installation of KSP version 1.12.2 or later, running in 64-bit.
 
 2. If reusing an existing install, empty the GameData folder of all contents but for the folders "Squad" and (if you own DLCs) "SquadExpansion". If starting with an entirely new install, it is recommended that you run KSP once with no mods installed before proceeding.
 
-3. Download the third party mod [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases). The Kopernicus version number must match the KSP version number, e.g. 1.12.1-x.
+3. Download the third party mod [Kopernicus](https://github.com/kopernicus/kopernicus/releases).
 
 4. Install by copying/merging the GameData folder from the Kopernicus download to your KSP install.
 
 5. If installing with [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases) or [JNSQ](https://github.com/Galileo88/JNSQ/releases), it is recommended that you download and install those mods first, and confirm their correct operation before installing GEP. Be sure to carefully follow all the GPP or JNSQ installation instructions.
 
-6. Download Grannus Expansion Pack v1.2.6.
+6. Download Grannus Expansion Pack v1.2.7.
 
 7. Install by copying/merging the GameData folder from the GEP download to your KSP install.
 
@@ -108,7 +108,7 @@ GEP also works with [JNSQ](https://github.com/Galileo88/JNSQ/releases) using the
   * PlanetShine works with GEP_Primary only, otherwise disabled.
   * EVE eclipses work with GEP_Primary only, otherwise disabled.
   * SCANsat day-night terminator works with GEP_Primary only, otherwise it is drawn incorrectly.
-  * This planet pack is not compatible with Scatterer v0.0825b, use v0.0772.
+  * This planet pack is not compatible with Scatterer v0.08+, use v0.0772.
 
 ## License
 
