@@ -1,5 +1,9 @@
 # Grannus Expansion Pack
 
+# 1.2.8 Changelog
+:bookmark: *KSP 1.12.2  or newer*
+* Fixed Rescale mods to resize Nodens' SOI.
+
 # 1.2.7 Changelog
 :bookmark: *KSP 1.12.2  or newer*
 * Increased Nodens' SOI to 26,000 km (now completely contains Belisama's SOI).
